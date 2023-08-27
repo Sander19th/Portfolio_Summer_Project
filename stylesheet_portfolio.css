@@ -5,3 +5,9 @@ html, body {
 	height: 100%;
 	background-color: #FAF9F6;
 }
+
+h {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 40px;
+}
+
